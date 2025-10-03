@@ -1,6 +1,6 @@
 # Hi, I’m Selen 👋  
 
-🌍 **Aspiring Product Manager | UK | Building MVPs and learning in public**  
+**Aspiring Product Manager & Young Professional | King's Alumni | London | Building MVPs and learning in public**  
 
 ### 🌱 Currently learning
 - Product Management (Career Accelerator @ King’s College London)  
