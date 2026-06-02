@@ -1,24 +1,26 @@
-# Hi, I’m Selen 👋  
+# Hi, I'm Selen 👋
 
-** Product Manager & Recruitment Consultant King's Alumna | London | Building MVPs 
--
-### Graduated with distinction from Product Management (Career Accelerator @ King’s College London)  
+**Co-Founder & CPO @ EsmaZen · Product builder with a talent background · London**
 
-### Projects I’m working on
-- 👩‍💼 **EsmaZen** → AI micro-habit app · Market research · Figma prototyping · Stakeholder resentation · Beta launch 2026
+I build products end-to-end — discovery, prototyping, PRDs, launch.
+Distinction graduate of the Product Management Career Accelerator at King's College London.
 
-### What you’ll find in my repos
-- Clear **README docs** with problem, solution, and KPIs  
-- **PRDs, user stories, and roadmaps** for each project  
-- A mix of lightweight code + product artefacts  
-- Reflections on what I’d improve in the next version  
+### What I'm building
+- **EsmaZen** — AI micro-habit app for the global Turkish-speaking market ·
+  market research · Figma prototyping · beta launch 2026
+- **Predictive hiring concept** (KCL capstone) — a team-fit tool built on the
+  Big Five model, designed around retention as the core metric · user research ·
+  PRD · KPI framework
 
-### Why this matters
-I'm showcasing my creativity and how I’d work with engineers, designers, and stakeholders by using GitHub the way real teams do:  
-- Writing user stories + acceptance criteria  
-- Using Issues, Pull Requests, and Projects for scope management  
-- Shipping small and soft, iterating fast, and measuring impact  
+### What you'll find in these repos
+- Clear READMEs framing each project's problem, solution, and KPIs
+- PRDs, user stories, and roadmaps
+- A mix of lightweight code and product artefacts
 
-### 📫 Let’s connect
-- [LinkedIn] https://www.linkedin.com/in/selenardic/  
-- [Email] selenardic@gmail.com 
+### How I work
+GitHub the way product teams do — user stories with acceptance criteria,
+Issues and Projects for scope, shipping small and iterating fast.
+
+### Let's connect
+- LinkedIn: https://www.linkedin.com/in/selenardic/
+- Email: selenardic@gmail.com
