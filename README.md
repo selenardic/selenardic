@@ -1,13 +1,11 @@
 # Hi, I’m Selen 👋  
 
-** Product Manager & Young Professional | King's Alumna | London | Building MVPs 
+** Product Manager & Recruitment Consultant King's Alumna | London | Building MVPs 
 -
 ### Graduated with distinction from Product Management (Career Accelerator @ King’s College London)  
 
-
 ### Projects I’m working on
-- 🏠 **Homeshare MVP** → Connecting elderly people with spare rooms to students needing affordable housing in the UK (focus: trust + accessibility)  
-- 👩‍💼 **EsmaZen** → AI micro-habit app · Market research · Figma prototyping · Stakeholder resentation · Beta launch April 2026
+- 👩‍💼 **EsmaZen** → AI micro-habit app · Market research · Figma prototyping · Stakeholder resentation · Beta launch 2026
 
 ### What you’ll find in my repos
 - Clear **README docs** with problem, solution, and KPIs  
